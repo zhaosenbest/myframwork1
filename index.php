@@ -9,3 +9,4 @@ require(APP_PATH.'fastphp/Fastphp.php');
 $config = require(APP_PATH.'config/config.php');
 
 (new Fastphp($config))->run();;;
+zhaosen2
